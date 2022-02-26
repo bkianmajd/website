@@ -1,0 +1,61 @@
+
+body {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.navbar {
+	background-color: white
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
+#navbar_title {
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: #DA291C;
+	font-size: 150%;
+	text-align: left;
+	background-color: #FFC72C
+}
+
+
+#drop_down {
+	border-bottom:.25px solid #27251F;
+	font-weight: bold;
+	color: #DA291C;
+	font-size: 20px;
+	text-align: center;
+	background-color: white
+	/*background-color: #FFC72C*/
+}
+
+#last_drop_down {
+	border-bottom: 0px solid #27251F;
+	font-weight: bold;
+	font-size: 20px;
+	color: #DA291C;
+	text-align: center;
+	background-color: white
+}
+
+#sub_title {
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: black;
+	font-size: 60px;
+	font-weight: normal;	
+}
+
+#section_menu {
+	color: black;
+	font-size: 60%;
+	font-weight: normal;
+	background-color: #FFC72C;
+	border-radius: 15px;
+	margin-bottom: 20px
+}
+
+#main_text {
+	color: black;
+	font-size: 50%;
+	font-weight: normal;
+}
